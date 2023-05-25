@@ -1,2 +1,2 @@
-# trade-deice-cpp
+# trade-dice-cpp
 cpp core of trade dice
