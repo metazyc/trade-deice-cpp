@@ -19,3 +19,5 @@ The system will run on a single machine,
 <li>data visualization</li>
 <li>weight each dice</li>
 </ol>
+
+![flow](https://github.com/metazyc/trade-dice-cpp/assets/20816770/d556158f-8648-438e-add0-a7ea7b1fca98)
